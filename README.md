@@ -8,7 +8,7 @@
 
 An explainable, production-style legal document intelligence platform engineered specifically for Indian contracts, commercial leases, employment agreements, court orders, and legal notices. 
 
-Going far beyond conventional summarisation, **NyayaLens AI** performs granular clause segmentation, detects high-liability risks with remediation counter-clauses, tracks deadlines in chronological timelines, compares multiple drafts for contradictions, checks compliance against verified Indian statutes (*Indian Contract Act 1872*, *Arbitration Act 1996*, *DPDP Act 2023*, *Stamp Act 1899*), and provides source-grounded multilingual explanations in **English**, **Hindi (हिन्दी)**, and **Punjabi (ਪੰਜਾਬੀ)**.
+Going far beyond conventional summarisation, **NyayaLens AI** performs granular clause segmentation, detects high-liability risks with remediation counter-clauses, tracks deadlines in chronological timelines, compares multiple drafts for contradictions, checks compliance against verified Indian statutes (*Indian Contract Act 1872*, *Arbitration Act 1996*, *DPDP Act 2023*, *Stamp Act 1899*), and provides source-grounded multilingual explanations in **English**
 
 ---
 
