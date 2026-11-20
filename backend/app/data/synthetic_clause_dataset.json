@@ -1,0 +1,1082 @@
+[
+  {
+    "clause_id": "SYN_001",
+    "text": "The aggregate liability of the Service Provider under this Agreement shall be limited to ,000 or one month fee.",
+    "clause_type": "Liability",
+    "risk_level": "Critical",
+    "statutory_relevance": "Indian Contract Act (Sec 73)",
+    "explanation": "Nominal liability cap is commercially unreasonable."
+  },
+  {
+    "clause_id": "SYN_002",
+    "text": "It is mutually agreed that: the aggregate liability of the service provider under this agreement shall be limited to ,000 or one month fee.",
+    "clause_type": "Liability",
+    "risk_level": "Critical",
+    "statutory_relevance": "Indian Contract Act (Sec 73)",
+    "explanation": "Nominal liability cap is commercially unreasonable."
+  },
+  {
+    "clause_id": "SYN_003",
+    "text": "Notwithstanding anything contained herein, the aggregate liability of the Service Provider under this Agreement shall be limited to ,000 or one month fee.",
+    "clause_type": "Liability",
+    "risk_level": "Critical",
+    "statutory_relevance": "Indian Contract Act (Sec 73)",
+    "explanation": "Nominal liability cap is commercially unreasonable."
+  },
+  {
+    "clause_id": "SYN_004",
+    "text": "Client or Employer may terminate this contract forthwith without cause and without prior notice.",
+    "clause_type": "Termination",
+    "risk_level": "Critical",
+    "statutory_relevance": "Common Law Notice",
+    "explanation": "Immediate termination without cause creates severe operational hazard."
+  },
+  {
+    "clause_id": "SYN_005",
+    "text": "It is mutually agreed that: client or employer may terminate this contract forthwith without cause and without prior notice.",
+    "clause_type": "Termination",
+    "risk_level": "Critical",
+    "statutory_relevance": "Common Law Notice",
+    "explanation": "Immediate termination without cause creates severe operational hazard."
+  },
+  {
+    "clause_id": "SYN_006",
+    "text": "Notwithstanding anything contained herein, client or Employer may terminate this contract forthwith without cause and without prior notice.",
+    "clause_type": "Termination",
+    "risk_level": "Critical",
+    "statutory_relevance": "Common Law Notice",
+    "explanation": "Immediate termination without cause creates severe operational hazard."
+  },
+  {
+    "clause_id": "SYN_007",
+    "text": "Employee shall not directly or indirectly engage with any competing business anywhere in India for two years post-separation.",
+    "clause_type": "Non-Compete",
+    "risk_level": "Critical",
+    "statutory_relevance": "Indian Contract Act (Sec 27)",
+    "explanation": "Post-employment non-compete is void ab initio in India."
+  },
+  {
+    "clause_id": "SYN_008",
+    "text": "It is mutually agreed that: employee shall not directly or indirectly engage with any competing business anywhere in india for two years post-separation.",
+    "clause_type": "Non-Compete",
+    "risk_level": "Critical",
+    "statutory_relevance": "Indian Contract Act (Sec 27)",
+    "explanation": "Post-employment non-compete is void ab initio in India."
+  },
+  {
+    "clause_id": "SYN_009",
+    "text": "Notwithstanding anything contained herein, employee shall not directly or indirectly engage with any competing business anywhere in India for two years post-separation.",
+    "clause_type": "Non-Compete",
+    "risk_level": "Critical",
+    "statutory_relevance": "Indian Contract Act (Sec 27)",
+    "explanation": "Post-employment non-compete is void ab initio in India."
+  },
+  {
+    "clause_id": "SYN_010",
+    "text": "Vendor shall pay liquidated damages of Rs 5,00,000 per day of delay without proof of actual loss.",
+    "clause_type": "Payment",
+    "risk_level": "Critical",
+    "statutory_relevance": "Indian Contract Act (Sec 74)",
+    "explanation": "Excessive daily liquidated damages constitute an illegal penalty."
+  },
+  {
+    "clause_id": "SYN_011",
+    "text": "It is mutually agreed that: vendor shall pay liquidated damages of rs 5,00,000 per day of delay without proof of actual loss.",
+    "clause_type": "Payment",
+    "risk_level": "Critical",
+    "statutory_relevance": "Indian Contract Act (Sec 74)",
+    "explanation": "Excessive daily liquidated damages constitute an illegal penalty."
+  },
+  {
+    "clause_id": "SYN_012",
+    "text": "Notwithstanding anything contained herein, vendor shall pay liquidated damages of Rs 5,00,000 per day of delay without proof of actual loss.",
+    "clause_type": "Payment",
+    "risk_level": "Critical",
+    "statutory_relevance": "Indian Contract Act (Sec 74)",
+    "explanation": "Excessive daily liquidated damages constitute an illegal penalty."
+  },
+  {
+    "clause_id": "SYN_013",
+    "text": "All disputes under this contract must be filed in court within thirty days or all legal rights are extinguished.",
+    "clause_type": "Governing_Law",
+    "risk_level": "Critical",
+    "statutory_relevance": "Indian Contract Act (Sec 28)",
+    "explanation": "Curtailing statutory limitation period is void under Section 28."
+  },
+  {
+    "clause_id": "SYN_014",
+    "text": "It is mutually agreed that: all disputes under this contract must be filed in court within thirty days or all legal rights are extinguished.",
+    "clause_type": "Governing_Law",
+    "risk_level": "Critical",
+    "statutory_relevance": "Indian Contract Act (Sec 28)",
+    "explanation": "Curtailing statutory limitation period is void under Section 28."
+  },
+  {
+    "clause_id": "SYN_015",
+    "text": "Notwithstanding anything contained herein, all disputes under this contract must be filed in court within thirty days or all legal rights are extinguished.",
+    "clause_type": "Governing_Law",
+    "risk_level": "Critical",
+    "statutory_relevance": "Indian Contract Act (Sec 28)",
+    "explanation": "Curtailing statutory limitation period is void under Section 28."
+  },
+  {
+    "clause_id": "SYN_016",
+    "text": "Client may unilaterally withhold 100% of all accrued invoices indefinitely upon any alleged quality dispute.",
+    "clause_type": "Payment",
+    "risk_level": "Critical",
+    "statutory_relevance": "Unfair Contract Terms",
+    "explanation": "Indefinite complete withholding is oppressive."
+  },
+  {
+    "clause_id": "SYN_017",
+    "text": "It is mutually agreed that: client may unilaterally withhold 100% of all accrued invoices indefinitely upon any alleged quality dispute.",
+    "clause_type": "Payment",
+    "risk_level": "Critical",
+    "statutory_relevance": "Unfair Contract Terms",
+    "explanation": "Indefinite complete withholding is oppressive."
+  },
+  {
+    "clause_id": "SYN_018",
+    "text": "Notwithstanding anything contained herein, client may unilaterally withhold 100% of all accrued invoices indefinitely upon any alleged quality dispute.",
+    "clause_type": "Payment",
+    "risk_level": "Critical",
+    "statutory_relevance": "Unfair Contract Terms",
+    "explanation": "Indefinite complete withholding is oppressive."
+  },
+  {
+    "clause_id": "SYN_019",
+    "text": "Vendor shall be strictly liable for any cloud downtime even if caused by third party telecom failure or power cuts.",
+    "clause_type": "Liability",
+    "risk_level": "Critical",
+    "statutory_relevance": "Doctrine of Frustration",
+    "explanation": "Absolute strict liability for external infrastructure is uninsurable."
+  },
+  {
+    "clause_id": "SYN_020",
+    "text": "It is mutually agreed that: vendor shall be strictly liable for any cloud downtime even if caused by third party telecom failure or power cuts.",
+    "clause_type": "Liability",
+    "risk_level": "Critical",
+    "statutory_relevance": "Doctrine of Frustration",
+    "explanation": "Absolute strict liability for external infrastructure is uninsurable."
+  },
+  {
+    "clause_id": "SYN_021",
+    "text": "Notwithstanding anything contained herein, vendor shall be strictly liable for any cloud downtime even if caused by third party telecom failure or power cuts.",
+    "clause_type": "Liability",
+    "risk_level": "Critical",
+    "statutory_relevance": "Doctrine of Frustration",
+    "explanation": "Absolute strict liability for external infrastructure is uninsurable."
+  },
+  {
+    "clause_id": "SYN_022",
+    "text": "Any breach of non-compete entitles the Company to an immediate ex-parte injunction without notice and Rs 50 lakh fine.",
+    "clause_type": "Non-Compete",
+    "risk_level": "Critical",
+    "statutory_relevance": "Specific Relief Act",
+    "explanation": "Ex-parte injunction mandate usurps court discretion."
+  },
+  {
+    "clause_id": "SYN_023",
+    "text": "It is mutually agreed that: any breach of non-compete entitles the company to an immediate ex-parte injunction without notice and rs 50 lakh fine.",
+    "clause_type": "Non-Compete",
+    "risk_level": "Critical",
+    "statutory_relevance": "Specific Relief Act",
+    "explanation": "Ex-parte injunction mandate usurps court discretion."
+  },
+  {
+    "clause_id": "SYN_024",
+    "text": "Notwithstanding anything contained herein, any breach of non-compete entitles the Company to an immediate ex-parte injunction without notice and Rs 50 lakh fine.",
+    "clause_type": "Non-Compete",
+    "risk_level": "Critical",
+    "statutory_relevance": "Specific Relief Act",
+    "explanation": "Ex-parte injunction mandate usurps court discretion."
+  },
+  {
+    "clause_id": "SYN_025",
+    "text": "The total liability of Vendor for any breach whatsoever shall not exceed Rs 5,000.",
+    "clause_type": "Liability",
+    "risk_level": "Critical",
+    "statutory_relevance": "Indian Contract Act (Sec 73)",
+    "explanation": "Nominal liability cap deprives client of breach compensation."
+  },
+  {
+    "clause_id": "SYN_026",
+    "text": "It is mutually agreed that: the total liability of vendor for any breach whatsoever shall not exceed rs 5,000.",
+    "clause_type": "Liability",
+    "risk_level": "Critical",
+    "statutory_relevance": "Indian Contract Act (Sec 73)",
+    "explanation": "Nominal liability cap deprives client of breach compensation."
+  },
+  {
+    "clause_id": "SYN_027",
+    "text": "Notwithstanding anything contained herein, the total liability of Vendor for any breach whatsoever shall not exceed Rs 5,000.",
+    "clause_type": "Liability",
+    "risk_level": "Critical",
+    "statutory_relevance": "Indian Contract Act (Sec 73)",
+    "explanation": "Nominal liability cap deprives client of breach compensation."
+  },
+  {
+    "clause_id": "SYN_028",
+    "text": "Employer reserves the right to terminate employment immediately on the spot without assigning any reason.",
+    "clause_type": "Termination",
+    "risk_level": "Critical",
+    "statutory_relevance": "Natural Justice",
+    "explanation": "Immediate termination without reason violates natural justice."
+  },
+  {
+    "clause_id": "SYN_029",
+    "text": "It is mutually agreed that: employer reserves the right to terminate employment immediately on the spot without assigning any reason.",
+    "clause_type": "Termination",
+    "risk_level": "Critical",
+    "statutory_relevance": "Natural Justice",
+    "explanation": "Immediate termination without reason violates natural justice."
+  },
+  {
+    "clause_id": "SYN_030",
+    "text": "Notwithstanding anything contained herein, employer reserves the right to terminate employment immediately on the spot without assigning any reason.",
+    "clause_type": "Termination",
+    "risk_level": "Critical",
+    "statutory_relevance": "Natural Justice",
+    "explanation": "Immediate termination without reason violates natural justice."
+  },
+  {
+    "clause_id": "SYN_031",
+    "text": "Vendor agrees to indemnify and hold harmless Client against all indirect, incidental, and consequential damages and lost profits.",
+    "clause_type": "Indemnity",
+    "risk_level": "High",
+    "statutory_relevance": "Indian Contract Act (Sec 73)",
+    "explanation": "Uncapped indemnity for indirect and consequential damages."
+  },
+  {
+    "clause_id": "SYN_032",
+    "text": "It is mutually agreed that: vendor agrees to indemnify and hold harmless client against all indirect, incidental, and consequential damages and lost profits.",
+    "clause_type": "Indemnity",
+    "risk_level": "High",
+    "statutory_relevance": "Indian Contract Act (Sec 73)",
+    "explanation": "Uncapped indemnity for indirect and consequential damages."
+  },
+  {
+    "clause_id": "SYN_033",
+    "text": "Notwithstanding anything contained herein, vendor agrees to indemnify and hold harmless Client against all indirect, incidental, and consequential damages and lost profits.",
+    "clause_type": "Indemnity",
+    "risk_level": "High",
+    "statutory_relevance": "Indian Contract Act (Sec 73)",
+    "explanation": "Uncapped indemnity for indirect and consequential damages."
+  },
+  {
+    "clause_id": "SYN_034",
+    "text": "In the event of delayed payment, customer shall pay compounding interest of 24% per month.",
+    "clause_type": "Payment",
+    "risk_level": "High",
+    "statutory_relevance": "Usury Laws",
+    "explanation": "Exorbitant compounding interest rate."
+  },
+  {
+    "clause_id": "SYN_035",
+    "text": "It is mutually agreed that: in the event of delayed payment, customer shall pay compounding interest of 24% per month.",
+    "clause_type": "Payment",
+    "risk_level": "High",
+    "statutory_relevance": "Usury Laws",
+    "explanation": "Exorbitant compounding interest rate."
+  },
+  {
+    "clause_id": "SYN_036",
+    "text": "Notwithstanding anything contained herein, in the event of delayed payment, customer shall pay compounding interest of 24% per month.",
+    "clause_type": "Payment",
+    "risk_level": "High",
+    "statutory_relevance": "Usury Laws",
+    "explanation": "Exorbitant compounding interest rate."
+  },
+  {
+    "clause_id": "SYN_037",
+    "text": "Client may terminate this agreement on 7 days notice while Vendor must provide 90 days prior written notice.",
+    "clause_type": "Termination",
+    "risk_level": "High",
+    "statutory_relevance": "Procedural Fairness",
+    "explanation": "Asymmetric termination notice windows."
+  },
+  {
+    "clause_id": "SYN_038",
+    "text": "It is mutually agreed that: client may terminate this agreement on 7 days notice while vendor must provide 90 days prior written notice.",
+    "clause_type": "Termination",
+    "risk_level": "High",
+    "statutory_relevance": "Procedural Fairness",
+    "explanation": "Asymmetric termination notice windows."
+  },
+  {
+    "clause_id": "SYN_039",
+    "text": "Notwithstanding anything contained herein, client may terminate this agreement on 7 days notice while Vendor must provide 90 days prior written notice.",
+    "clause_type": "Termination",
+    "risk_level": "High",
+    "statutory_relevance": "Procedural Fairness",
+    "explanation": "Asymmetric termination notice windows."
+  },
+  {
+    "clause_id": "SYN_040",
+    "text": "All pre-existing background IP, source code, and developer tools of Vendor shall become exclusive property of Client.",
+    "clause_type": "Intellectual_Property",
+    "risk_level": "High",
+    "statutory_relevance": "Copyright Act",
+    "explanation": "Overbroad background IP forfeiture."
+  },
+  {
+    "clause_id": "SYN_041",
+    "text": "It is mutually agreed that: all pre-existing background ip, source code, and developer tools of vendor shall become exclusive property of client.",
+    "clause_type": "Intellectual_Property",
+    "risk_level": "High",
+    "statutory_relevance": "Copyright Act",
+    "explanation": "Overbroad background IP forfeiture."
+  },
+  {
+    "clause_id": "SYN_042",
+    "text": "Notwithstanding anything contained herein, all pre-existing background IP, source code, and developer tools of Vendor shall become exclusive property of Client.",
+    "clause_type": "Intellectual_Property",
+    "risk_level": "High",
+    "statutory_relevance": "Copyright Act",
+    "explanation": "Overbroad background IP forfeiture."
+  },
+  {
+    "clause_id": "SYN_043",
+    "text": "Tenant security deposit of six months shall be entirely forfeited if tenant vacates prior to completion of three years.",
+    "clause_type": "Payment",
+    "risk_level": "High",
+    "statutory_relevance": "Property Law",
+    "explanation": "Arbitrary total security deposit forfeiture."
+  },
+  {
+    "clause_id": "SYN_044",
+    "text": "It is mutually agreed that: tenant security deposit of six months shall be entirely forfeited if tenant vacates prior to completion of three years.",
+    "clause_type": "Payment",
+    "risk_level": "High",
+    "statutory_relevance": "Property Law",
+    "explanation": "Arbitrary total security deposit forfeiture."
+  },
+  {
+    "clause_id": "SYN_045",
+    "text": "Notwithstanding anything contained herein, tenant security deposit of six months shall be entirely forfeited if tenant vacates prior to completion of three years.",
+    "clause_type": "Payment",
+    "risk_level": "High",
+    "statutory_relevance": "Property Law",
+    "explanation": "Arbitrary total security deposit forfeiture."
+  },
+  {
+    "clause_id": "SYN_046",
+    "text": "Company reserves the unilateral right to reduce employee salary and benefits by up to 40% at its sole discretion.",
+    "clause_type": "Termination",
+    "risk_level": "High",
+    "statutory_relevance": "Industrial Disputes Act",
+    "explanation": "Unilateral wage reduction clause."
+  },
+  {
+    "clause_id": "SYN_047",
+    "text": "It is mutually agreed that: company reserves the unilateral right to reduce employee salary and benefits by up to 40% at its sole discretion.",
+    "clause_type": "Termination",
+    "risk_level": "High",
+    "statutory_relevance": "Industrial Disputes Act",
+    "explanation": "Unilateral wage reduction clause."
+  },
+  {
+    "clause_id": "SYN_048",
+    "text": "Notwithstanding anything contained herein, company reserves the unilateral right to reduce employee salary and benefits by up to 40% at its sole discretion.",
+    "clause_type": "Termination",
+    "risk_level": "High",
+    "statutory_relevance": "Industrial Disputes Act",
+    "explanation": "Unilateral wage reduction clause."
+  },
+  {
+    "clause_id": "SYN_049",
+    "text": "Client shall have sole control over defense and settlement negotiations at Vendor expense without Vendor consent.",
+    "clause_type": "Indemnity",
+    "risk_level": "High",
+    "statutory_relevance": "Indemnity Control",
+    "explanation": "Depriving indemnifier of defense control while charging them."
+  },
+  {
+    "clause_id": "SYN_050",
+    "text": "It is mutually agreed that: client shall have sole control over defense and settlement negotiations at vendor expense without vendor consent.",
+    "clause_type": "Indemnity",
+    "risk_level": "High",
+    "statutory_relevance": "Indemnity Control",
+    "explanation": "Depriving indemnifier of defense control while charging them."
+  },
+  {
+    "clause_id": "SYN_051",
+    "text": "Notwithstanding anything contained herein, client shall have sole control over defense and settlement negotiations at Vendor expense without Vendor consent.",
+    "clause_type": "Indemnity",
+    "risk_level": "High",
+    "statutory_relevance": "Indemnity Control",
+    "explanation": "Depriving indemnifier of defense control while charging them."
+  },
+  {
+    "clause_id": "SYN_052",
+    "text": "Vendor shall indemnify Client against any third party claim regardless of whether Vendor was negligent or at fault.",
+    "clause_type": "Indemnity",
+    "risk_level": "High",
+    "statutory_relevance": "Fault-Free Indemnity",
+    "explanation": "No-fault indemnification creates unfair exposure."
+  },
+  {
+    "clause_id": "SYN_053",
+    "text": "It is mutually agreed that: vendor shall indemnify client against any third party claim regardless of whether vendor was negligent or at fault.",
+    "clause_type": "Indemnity",
+    "risk_level": "High",
+    "statutory_relevance": "Fault-Free Indemnity",
+    "explanation": "No-fault indemnification creates unfair exposure."
+  },
+  {
+    "clause_id": "SYN_054",
+    "text": "Notwithstanding anything contained herein, vendor shall indemnify Client against any third party claim regardless of whether Vendor was negligent or at fault.",
+    "clause_type": "Indemnity",
+    "risk_level": "High",
+    "statutory_relevance": "Fault-Free Indemnity",
+    "explanation": "No-fault indemnification creates unfair exposure."
+  },
+  {
+    "clause_id": "SYN_055",
+    "text": "Customer shall be subject to penalty equal to twice the total annual contract value upon minor delay in payment.",
+    "clause_type": "Payment",
+    "risk_level": "High",
+    "statutory_relevance": "Liquidated Damages",
+    "explanation": "Disproportionate penalty for minor delay."
+  },
+  {
+    "clause_id": "SYN_056",
+    "text": "It is mutually agreed that: customer shall be subject to penalty equal to twice the total annual contract value upon minor delay in payment.",
+    "clause_type": "Payment",
+    "risk_level": "High",
+    "statutory_relevance": "Liquidated Damages",
+    "explanation": "Disproportionate penalty for minor delay."
+  },
+  {
+    "clause_id": "SYN_057",
+    "text": "Notwithstanding anything contained herein, customer shall be subject to penalty equal to twice the total annual contract value upon minor delay in payment.",
+    "clause_type": "Payment",
+    "risk_level": "High",
+    "statutory_relevance": "Liquidated Damages",
+    "explanation": "Disproportionate penalty for minor delay."
+  },
+  {
+    "clause_id": "SYN_058",
+    "text": "Service Provider must continue rendering services for six months without pay during any fee dispute resolution.",
+    "clause_type": "Payment",
+    "risk_level": "High",
+    "statutory_relevance": "Unfair Terms",
+    "explanation": "Forced unpaid service obligation."
+  },
+  {
+    "clause_id": "SYN_059",
+    "text": "It is mutually agreed that: service provider must continue rendering services for six months without pay during any fee dispute resolution.",
+    "clause_type": "Payment",
+    "risk_level": "High",
+    "statutory_relevance": "Unfair Terms",
+    "explanation": "Forced unpaid service obligation."
+  },
+  {
+    "clause_id": "SYN_060",
+    "text": "Notwithstanding anything contained herein, service Provider must continue rendering services for six months without pay during any fee dispute resolution.",
+    "clause_type": "Payment",
+    "risk_level": "High",
+    "statutory_relevance": "Unfair Terms",
+    "explanation": "Forced unpaid service obligation."
+  },
+  {
+    "clause_id": "SYN_061",
+    "text": "Receiving Party shall preserve all disclosed business information in strict confidence in perpetuity.",
+    "clause_type": "Confidentiality",
+    "risk_level": "Medium",
+    "statutory_relevance": "Trade Secrets",
+    "explanation": "Perpetual confidentiality for standard commercial data."
+  },
+  {
+    "clause_id": "SYN_062",
+    "text": "It is mutually agreed that: receiving party shall preserve all disclosed business information in strict confidence in perpetuity.",
+    "clause_type": "Confidentiality",
+    "risk_level": "Medium",
+    "statutory_relevance": "Trade Secrets",
+    "explanation": "Perpetual confidentiality for standard commercial data."
+  },
+  {
+    "clause_id": "SYN_063",
+    "text": "Notwithstanding anything contained herein, receiving Party shall preserve all disclosed business information in strict confidence in perpetuity.",
+    "clause_type": "Confidentiality",
+    "risk_level": "Medium",
+    "statutory_relevance": "Trade Secrets",
+    "explanation": "Perpetual confidentiality for standard commercial data."
+  },
+  {
+    "clause_id": "SYN_064",
+    "text": "Employee covenants not to solicit or hire any employees or contractors of the Company for twelve months.",
+    "clause_type": "Non-Compete",
+    "risk_level": "Medium",
+    "statutory_relevance": "Non-Solicitation",
+    "explanation": "Standard non-solicitation clause."
+  },
+  {
+    "clause_id": "SYN_065",
+    "text": "It is mutually agreed that: employee covenants not to solicit or hire any employees or contractors of the company for twelve months.",
+    "clause_type": "Non-Compete",
+    "risk_level": "Medium",
+    "statutory_relevance": "Non-Solicitation",
+    "explanation": "Standard non-solicitation clause."
+  },
+  {
+    "clause_id": "SYN_066",
+    "text": "Notwithstanding anything contained herein, employee covenants not to solicit or hire any employees or contractors of the Company for twelve months.",
+    "clause_type": "Non-Compete",
+    "risk_level": "Medium",
+    "statutory_relevance": "Non-Solicitation",
+    "explanation": "Standard non-solicitation clause."
+  },
+  {
+    "clause_id": "SYN_067",
+    "text": "This Agreement shall automatically renew for successive one year terms unless notice is given 15 days prior to expiry.",
+    "clause_type": "Termination",
+    "risk_level": "Medium",
+    "statutory_relevance": "Evergreen Clause",
+    "explanation": "Short 15-day opt-out window for automatic renewal."
+  },
+  {
+    "clause_id": "SYN_068",
+    "text": "It is mutually agreed that: this agreement shall automatically renew for successive one year terms unless notice is given 15 days prior to expiry.",
+    "clause_type": "Termination",
+    "risk_level": "Medium",
+    "statutory_relevance": "Evergreen Clause",
+    "explanation": "Short 15-day opt-out window for automatic renewal."
+  },
+  {
+    "clause_id": "SYN_069",
+    "text": "Notwithstanding anything contained herein, this Agreement shall automatically renew for successive one year terms unless notice is given 15 days prior to expiry.",
+    "clause_type": "Termination",
+    "risk_level": "Medium",
+    "statutory_relevance": "Evergreen Clause",
+    "explanation": "Short 15-day opt-out window for automatic renewal."
+  },
+  {
+    "clause_id": "SYN_070",
+    "text": "Client shall have the right to set off any amounts claimed under separate contracts against fees under this agreement.",
+    "clause_type": "Payment",
+    "risk_level": "Medium",
+    "statutory_relevance": "Set-off Clause",
+    "explanation": "Cross-contract setoff may disrupt cash flow."
+  },
+  {
+    "clause_id": "SYN_071",
+    "text": "It is mutually agreed that: client shall have the right to set off any amounts claimed under separate contracts against fees under this agreement.",
+    "clause_type": "Payment",
+    "risk_level": "Medium",
+    "statutory_relevance": "Set-off Clause",
+    "explanation": "Cross-contract setoff may disrupt cash flow."
+  },
+  {
+    "clause_id": "SYN_072",
+    "text": "Notwithstanding anything contained herein, client shall have the right to set off any amounts claimed under separate contracts against fees under this agreement.",
+    "clause_type": "Payment",
+    "risk_level": "Medium",
+    "statutory_relevance": "Set-off Clause",
+    "explanation": "Cross-contract setoff may disrupt cash flow."
+  },
+  {
+    "clause_id": "SYN_073",
+    "text": "Vendor agrees that Client owns all rights in any derivative works, feedback, and architectural suggestions.",
+    "clause_type": "Intellectual_Property",
+    "risk_level": "Medium",
+    "statutory_relevance": "Feedback Assignment",
+    "explanation": "Feedback and derivative assignment."
+  },
+  {
+    "clause_id": "SYN_074",
+    "text": "It is mutually agreed that: vendor agrees that client owns all rights in any derivative works, feedback, and architectural suggestions.",
+    "clause_type": "Intellectual_Property",
+    "risk_level": "Medium",
+    "statutory_relevance": "Feedback Assignment",
+    "explanation": "Feedback and derivative assignment."
+  },
+  {
+    "clause_id": "SYN_075",
+    "text": "Notwithstanding anything contained herein, vendor agrees that Client owns all rights in any derivative works, feedback, and architectural suggestions.",
+    "clause_type": "Intellectual_Property",
+    "risk_level": "Medium",
+    "statutory_relevance": "Feedback Assignment",
+    "explanation": "Feedback and derivative assignment."
+  },
+  {
+    "clause_id": "SYN_076",
+    "text": "Consultant shall not take up any outside freelance or consulting work during the subsistence of this active agreement.",
+    "clause_type": "Non-Compete",
+    "risk_level": "Medium",
+    "statutory_relevance": "Exclusivity",
+    "explanation": "Standard active engagement exclusivity."
+  },
+  {
+    "clause_id": "SYN_077",
+    "text": "It is mutually agreed that: consultant shall not take up any outside freelance or consulting work during the subsistence of this active agreement.",
+    "clause_type": "Non-Compete",
+    "risk_level": "Medium",
+    "statutory_relevance": "Exclusivity",
+    "explanation": "Standard active engagement exclusivity."
+  },
+  {
+    "clause_id": "SYN_078",
+    "text": "Notwithstanding anything contained herein, consultant shall not take up any outside freelance or consulting work during the subsistence of this active agreement.",
+    "clause_type": "Non-Compete",
+    "risk_level": "Medium",
+    "statutory_relevance": "Exclusivity",
+    "explanation": "Standard active engagement exclusivity."
+  },
+  {
+    "clause_id": "SYN_079",
+    "text": "Client may audit Vendor books and financial records at any time upon twenty-four hours notice.",
+    "clause_type": "Governing_Law",
+    "risk_level": "Medium",
+    "statutory_relevance": "Audit Rights",
+    "explanation": "Extremely short audit notice window."
+  },
+  {
+    "clause_id": "SYN_080",
+    "text": "It is mutually agreed that: client may audit vendor books and financial records at any time upon twenty-four hours notice.",
+    "clause_type": "Governing_Law",
+    "risk_level": "Medium",
+    "statutory_relevance": "Audit Rights",
+    "explanation": "Extremely short audit notice window."
+  },
+  {
+    "clause_id": "SYN_081",
+    "text": "Notwithstanding anything contained herein, client may audit Vendor books and financial records at any time upon twenty-four hours notice.",
+    "clause_type": "Governing_Law",
+    "risk_level": "Medium",
+    "statutory_relevance": "Audit Rights",
+    "explanation": "Extremely short audit notice window."
+  },
+  {
+    "clause_id": "SYN_082",
+    "text": "Confidentiality obligations for commercial pricing proposals shall survive for seven years following contract termination.",
+    "clause_type": "Confidentiality",
+    "risk_level": "Medium",
+    "statutory_relevance": "Confidentiality Horizon",
+    "explanation": "Lengthy confidentiality duration."
+  },
+  {
+    "clause_id": "SYN_083",
+    "text": "It is mutually agreed that: confidentiality obligations for commercial pricing proposals shall survive for seven years following contract termination.",
+    "clause_type": "Confidentiality",
+    "risk_level": "Medium",
+    "statutory_relevance": "Confidentiality Horizon",
+    "explanation": "Lengthy confidentiality duration."
+  },
+  {
+    "clause_id": "SYN_084",
+    "text": "Notwithstanding anything contained herein, confidentiality obligations for commercial pricing proposals shall survive for seven years following contract termination.",
+    "clause_type": "Confidentiality",
+    "risk_level": "Medium",
+    "statutory_relevance": "Confidentiality Horizon",
+    "explanation": "Lengthy confidentiality duration."
+  },
+  {
+    "clause_id": "SYN_085",
+    "text": "Any delay in project milestone acceptance exceeding 3 business days shall be deemed automatic formal acceptance.",
+    "clause_type": "Payment",
+    "risk_level": "Medium",
+    "statutory_relevance": "Deemed Acceptance",
+    "explanation": "Short deemed acceptance window."
+  },
+  {
+    "clause_id": "SYN_086",
+    "text": "It is mutually agreed that: any delay in project milestone acceptance exceeding 3 business days shall be deemed automatic formal acceptance.",
+    "clause_type": "Payment",
+    "risk_level": "Medium",
+    "statutory_relevance": "Deemed Acceptance",
+    "explanation": "Short deemed acceptance window."
+  },
+  {
+    "clause_id": "SYN_087",
+    "text": "Notwithstanding anything contained herein, any delay in project milestone acceptance exceeding 3 business days shall be deemed automatic formal acceptance.",
+    "clause_type": "Payment",
+    "risk_level": "Medium",
+    "statutory_relevance": "Deemed Acceptance",
+    "explanation": "Short deemed acceptance window."
+  },
+  {
+    "clause_id": "SYN_088",
+    "text": "Vendor shall assign all patent filings conceived during the performance period to Client without additional royalty.",
+    "clause_type": "Intellectual_Property",
+    "risk_level": "Medium",
+    "statutory_relevance": "Patent Rights",
+    "explanation": "Assignment of inventions without separate compensation."
+  },
+  {
+    "clause_id": "SYN_089",
+    "text": "It is mutually agreed that: vendor shall assign all patent filings conceived during the performance period to client without additional royalty.",
+    "clause_type": "Intellectual_Property",
+    "risk_level": "Medium",
+    "statutory_relevance": "Patent Rights",
+    "explanation": "Assignment of inventions without separate compensation."
+  },
+  {
+    "clause_id": "SYN_090",
+    "text": "Notwithstanding anything contained herein, vendor shall assign all patent filings conceived during the performance period to Client without additional royalty.",
+    "clause_type": "Intellectual_Property",
+    "risk_level": "Medium",
+    "statutory_relevance": "Patent Rights",
+    "explanation": "Assignment of inventions without separate compensation."
+  },
+  {
+    "clause_id": "SYN_091",
+    "text": "This Agreement shall be governed by the laws of India and subject to arbitration in New Delhi under the 1996 Act.",
+    "clause_type": "Governing_Law",
+    "risk_level": "Low",
+    "statutory_relevance": "Arbitration Act 1996",
+    "explanation": "Standard balanced Indian arbitration clause."
+  },
+  {
+    "clause_id": "SYN_092",
+    "text": "It is mutually agreed that: this agreement shall be governed by the laws of india and subject to arbitration in new delhi under the 1996 act.",
+    "clause_type": "Governing_Law",
+    "risk_level": "Low",
+    "statutory_relevance": "Arbitration Act 1996",
+    "explanation": "Standard balanced Indian arbitration clause."
+  },
+  {
+    "clause_id": "SYN_093",
+    "text": "Notwithstanding anything contained herein, this Agreement shall be governed by the laws of India and subject to arbitration in New Delhi under the 1996 Act.",
+    "clause_type": "Governing_Law",
+    "risk_level": "Low",
+    "statutory_relevance": "Arbitration Act 1996",
+    "explanation": "Standard balanced Indian arbitration clause."
+  },
+  {
+    "clause_id": "SYN_094",
+    "text": "Client shall remit undisputed fees within thirty days from receipt of a valid tax invoice via bank wire.",
+    "clause_type": "Payment",
+    "risk_level": "Low",
+    "statutory_relevance": "Commercial Norm",
+    "explanation": "Standard net-30 invoice settlement."
+  },
+  {
+    "clause_id": "SYN_095",
+    "text": "It is mutually agreed that: client shall remit undisputed fees within thirty days from receipt of a valid tax invoice via bank wire.",
+    "clause_type": "Payment",
+    "risk_level": "Low",
+    "statutory_relevance": "Commercial Norm",
+    "explanation": "Standard net-30 invoice settlement."
+  },
+  {
+    "clause_id": "SYN_096",
+    "text": "Notwithstanding anything contained herein, client shall remit undisputed fees within thirty days from receipt of a valid tax invoice via bank wire.",
+    "clause_type": "Payment",
+    "risk_level": "Low",
+    "statutory_relevance": "Commercial Norm",
+    "explanation": "Standard net-30 invoice settlement."
+  },
+  {
+    "clause_id": "SYN_097",
+    "text": "Either party may terminate this Agreement for convenience upon sixty days prior written notice to the other party.",
+    "clause_type": "Termination",
+    "risk_level": "Low",
+    "statutory_relevance": "Mutual Convenience",
+    "explanation": "Balanced 60-day mutual exit notice."
+  },
+  {
+    "clause_id": "SYN_098",
+    "text": "It is mutually agreed that: either party may terminate this agreement for convenience upon sixty days prior written notice to the other party.",
+    "clause_type": "Termination",
+    "risk_level": "Low",
+    "statutory_relevance": "Mutual Convenience",
+    "explanation": "Balanced 60-day mutual exit notice."
+  },
+  {
+    "clause_id": "SYN_099",
+    "text": "Notwithstanding anything contained herein, either party may terminate this Agreement for convenience upon sixty days prior written notice to the other party.",
+    "clause_type": "Termination",
+    "risk_level": "Low",
+    "statutory_relevance": "Mutual Convenience",
+    "explanation": "Balanced 60-day mutual exit notice."
+  },
+  {
+    "clause_id": "SYN_100",
+    "text": "Each party shall protect Confidential Information for three years post-termination using reasonable care standards.",
+    "clause_type": "Confidentiality",
+    "risk_level": "Low",
+    "statutory_relevance": "Standard Care",
+    "explanation": "Market standard 3-year confidentiality term."
+  },
+  {
+    "clause_id": "SYN_101",
+    "text": "It is mutually agreed that: each party shall protect confidential information for three years post-termination using reasonable care standards.",
+    "clause_type": "Confidentiality",
+    "risk_level": "Low",
+    "statutory_relevance": "Standard Care",
+    "explanation": "Market standard 3-year confidentiality term."
+  },
+  {
+    "clause_id": "SYN_102",
+    "text": "Notwithstanding anything contained herein, each party shall protect Confidential Information for three years post-termination using reasonable care standards.",
+    "clause_type": "Confidentiality",
+    "risk_level": "Low",
+    "statutory_relevance": "Standard Care",
+    "explanation": "Market standard 3-year confidentiality term."
+  },
+  {
+    "clause_id": "SYN_103",
+    "text": "The aggregate liability of either party shall be limited to total fees paid in the trailing twelve months.",
+    "clause_type": "Liability",
+    "risk_level": "Low",
+    "statutory_relevance": "Mutual Cap",
+    "explanation": "Standard mutual 12-month trailing fee liability cap."
+  },
+  {
+    "clause_id": "SYN_104",
+    "text": "It is mutually agreed that: the aggregate liability of either party shall be limited to total fees paid in the trailing twelve months.",
+    "clause_type": "Liability",
+    "risk_level": "Low",
+    "statutory_relevance": "Mutual Cap",
+    "explanation": "Standard mutual 12-month trailing fee liability cap."
+  },
+  {
+    "clause_id": "SYN_105",
+    "text": "Notwithstanding anything contained herein, the aggregate liability of either party shall be limited to total fees paid in the trailing twelve months.",
+    "clause_type": "Liability",
+    "risk_level": "Low",
+    "statutory_relevance": "Mutual Cap",
+    "explanation": "Standard mutual 12-month trailing fee liability cap."
+  },
+  {
+    "clause_id": "SYN_106",
+    "text": "If any provision is held invalid, the remainder of this Agreement shall continue in full force and effect.",
+    "clause_type": "Governing_Law",
+    "risk_level": "Low",
+    "statutory_relevance": "Severability",
+    "explanation": "Standard severability clause."
+  },
+  {
+    "clause_id": "SYN_107",
+    "text": "It is mutually agreed that: if any provision is held invalid, the remainder of this agreement shall continue in full force and effect.",
+    "clause_type": "Governing_Law",
+    "risk_level": "Low",
+    "statutory_relevance": "Severability",
+    "explanation": "Standard severability clause."
+  },
+  {
+    "clause_id": "SYN_108",
+    "text": "Notwithstanding anything contained herein, if any provision is held invalid, the remainder of this Agreement shall continue in full force and effect.",
+    "clause_type": "Governing_Law",
+    "risk_level": "Low",
+    "statutory_relevance": "Severability",
+    "explanation": "Standard severability clause."
+  },
+  {
+    "clause_id": "SYN_109",
+    "text": "Vendor shall process personal data in strict compliance with the Digital Personal Data Protection Act, 2023.",
+    "clause_type": "Confidentiality",
+    "risk_level": "Low",
+    "statutory_relevance": "DPDP Act 2023",
+    "explanation": "Compliant data protection provision."
+  },
+  {
+    "clause_id": "SYN_110",
+    "text": "It is mutually agreed that: vendor shall process personal data in strict compliance with the digital personal data protection act, 2023.",
+    "clause_type": "Confidentiality",
+    "risk_level": "Low",
+    "statutory_relevance": "DPDP Act 2023",
+    "explanation": "Compliant data protection provision."
+  },
+  {
+    "clause_id": "SYN_111",
+    "text": "Notwithstanding anything contained herein, vendor shall process personal data in strict compliance with the Digital Personal Data Protection Act, 2023.",
+    "clause_type": "Confidentiality",
+    "risk_level": "Low",
+    "statutory_relevance": "DPDP Act 2023",
+    "explanation": "Compliant data protection provision."
+  },
+  {
+    "clause_id": "SYN_112",
+    "text": "Custom deliverables created specifically for Client shall be owned by Client upon full payment of fees.",
+    "clause_type": "Intellectual_Property",
+    "risk_level": "Low",
+    "statutory_relevance": "Work For Hire",
+    "explanation": "Standard paid deliverable ownership transfer."
+  },
+  {
+    "clause_id": "SYN_113",
+    "text": "It is mutually agreed that: custom deliverables created specifically for client shall be owned by client upon full payment of fees.",
+    "clause_type": "Intellectual_Property",
+    "risk_level": "Low",
+    "statutory_relevance": "Work For Hire",
+    "explanation": "Standard paid deliverable ownership transfer."
+  },
+  {
+    "clause_id": "SYN_114",
+    "text": "Notwithstanding anything contained herein, custom deliverables created specifically for Client shall be owned by Client upon full payment of fees.",
+    "clause_type": "Intellectual_Property",
+    "risk_level": "Low",
+    "statutory_relevance": "Work For Hire",
+    "explanation": "Standard paid deliverable ownership transfer."
+  },
+  {
+    "clause_id": "SYN_115",
+    "text": "Neither party shall be liable for delays caused by acts of God, flood, pandemic, or government restrictions.",
+    "clause_type": "Liability",
+    "risk_level": "Low",
+    "statutory_relevance": "Force Majeure",
+    "explanation": "Standard Force Majeure protection."
+  },
+  {
+    "clause_id": "SYN_116",
+    "text": "It is mutually agreed that: neither party shall be liable for delays caused by acts of god, flood, pandemic, or government restrictions.",
+    "clause_type": "Liability",
+    "risk_level": "Low",
+    "statutory_relevance": "Force Majeure",
+    "explanation": "Standard Force Majeure protection."
+  },
+  {
+    "clause_id": "SYN_117",
+    "text": "Notwithstanding anything contained herein, neither party shall be liable for delays caused by acts of God, flood, pandemic, or government restrictions.",
+    "clause_type": "Liability",
+    "risk_level": "Low",
+    "statutory_relevance": "Force Majeure",
+    "explanation": "Standard Force Majeure protection."
+  },
+  {
+    "clause_id": "SYN_118",
+    "text": "The Courts at New Delhi shall have exclusive jurisdiction over legal proceedings arising out of this agreement.",
+    "clause_type": "Governing_Law",
+    "risk_level": "Low",
+    "statutory_relevance": "Jurisdiction",
+    "explanation": "Valid forum selection clause."
+  },
+  {
+    "clause_id": "SYN_119",
+    "text": "It is mutually agreed that: the courts at new delhi shall have exclusive jurisdiction over legal proceedings arising out of this agreement.",
+    "clause_type": "Governing_Law",
+    "risk_level": "Low",
+    "statutory_relevance": "Jurisdiction",
+    "explanation": "Valid forum selection clause."
+  },
+  {
+    "clause_id": "SYN_120",
+    "text": "Notwithstanding anything contained herein, the Courts at New Delhi shall have exclusive jurisdiction over legal proceedings arising out of this agreement.",
+    "clause_type": "Governing_Law",
+    "risk_level": "Low",
+    "statutory_relevance": "Jurisdiction",
+    "explanation": "Valid forum selection clause."
+  },
+  {
+    "clause_id": "SYN_121",
+    "text": "Vendor warrants that services will be performed in a professional manner conforming to industry standards.",
+    "clause_type": "Liability",
+    "risk_level": "Low",
+    "statutory_relevance": "Warranty",
+    "explanation": "Standard professional service warranty."
+  },
+  {
+    "clause_id": "SYN_122",
+    "text": "It is mutually agreed that: vendor warrants that services will be performed in a professional manner conforming to industry standards.",
+    "clause_type": "Liability",
+    "risk_level": "Low",
+    "statutory_relevance": "Warranty",
+    "explanation": "Standard professional service warranty."
+  },
+  {
+    "clause_id": "SYN_123",
+    "text": "Notwithstanding anything contained herein, vendor warrants that services will be performed in a professional manner conforming to industry standards.",
+    "clause_type": "Liability",
+    "risk_level": "Low",
+    "statutory_relevance": "Warranty",
+    "explanation": "Standard professional service warranty."
+  },
+  {
+    "clause_id": "SYN_124",
+    "text": "All formal notices shall be sent by registered post or recognized courier to the registered office addresses.",
+    "clause_type": "Governing_Law",
+    "risk_level": "Low",
+    "statutory_relevance": "Notice Clause",
+    "explanation": "Standard delivery of legal notices."
+  },
+  {
+    "clause_id": "SYN_125",
+    "text": "It is mutually agreed that: all formal notices shall be sent by registered post or recognized courier to the registered office addresses.",
+    "clause_type": "Governing_Law",
+    "risk_level": "Low",
+    "statutory_relevance": "Notice Clause",
+    "explanation": "Standard delivery of legal notices."
+  },
+  {
+    "clause_id": "SYN_126",
+    "text": "Notwithstanding anything contained herein, all formal notices shall be sent by registered post or recognized courier to the registered office addresses.",
+    "clause_type": "Governing_Law",
+    "risk_level": "Low",
+    "statutory_relevance": "Notice Clause",
+    "explanation": "Standard delivery of legal notices."
+  },
+  {
+    "clause_id": "SYN_127",
+    "text": "Failure to enforce any provision on one occasion shall not constitute a waiver of future enforcement rights.",
+    "clause_type": "Governing_Law",
+    "risk_level": "Low",
+    "statutory_relevance": "Waiver",
+    "explanation": "Standard non-waiver provision."
+  },
+  {
+    "clause_id": "SYN_128",
+    "text": "It is mutually agreed that: failure to enforce any provision on one occasion shall not constitute a waiver of future enforcement rights.",
+    "clause_type": "Governing_Law",
+    "risk_level": "Low",
+    "statutory_relevance": "Waiver",
+    "explanation": "Standard non-waiver provision."
+  },
+  {
+    "clause_id": "SYN_129",
+    "text": "Notwithstanding anything contained herein, failure to enforce any provision on one occasion shall not constitute a waiver of future enforcement rights.",
+    "clause_type": "Governing_Law",
+    "risk_level": "Low",
+    "statutory_relevance": "Waiver",
+    "explanation": "Standard non-waiver provision."
+  },
+  {
+    "clause_id": "SYN_130",
+    "text": "The Consultant shall be responsible for paying all applicable GST and statutory taxes on professional fees received.",
+    "clause_type": "Payment",
+    "risk_level": "Low",
+    "statutory_relevance": "Tax Clause",
+    "explanation": "Standard statutory tax allocation."
+  },
+  {
+    "clause_id": "SYN_131",
+    "text": "It is mutually agreed that: the consultant shall be responsible for paying all applicable gst and statutory taxes on professional fees received.",
+    "clause_type": "Payment",
+    "risk_level": "Low",
+    "statutory_relevance": "Tax Clause",
+    "explanation": "Standard statutory tax allocation."
+  },
+  {
+    "clause_id": "SYN_132",
+    "text": "Notwithstanding anything contained herein, the Consultant shall be responsible for paying all applicable GST and statutory taxes on professional fees received.",
+    "clause_type": "Payment",
+    "risk_level": "Low",
+    "statutory_relevance": "Tax Clause",
+    "explanation": "Standard statutory tax allocation."
+  },
+  {
+    "clause_id": "SYN_133",
+    "text": "Service Provider shall maintain professional liability insurance coverage of at least INR 2,00,00,000.",
+    "clause_type": "Liability",
+    "risk_level": "Low",
+    "statutory_relevance": "Insurance",
+    "explanation": "Standard commercial insurance covenant."
+  },
+  {
+    "clause_id": "SYN_134",
+    "text": "It is mutually agreed that: service provider shall maintain professional liability insurance coverage of at least inr 2,00,00,000.",
+    "clause_type": "Liability",
+    "risk_level": "Low",
+    "statutory_relevance": "Insurance",
+    "explanation": "Standard commercial insurance covenant."
+  },
+  {
+    "clause_id": "SYN_135",
+    "text": "Notwithstanding anything contained herein, service Provider shall maintain professional liability insurance coverage of at least INR 2,00,00,000.",
+    "clause_type": "Liability",
+    "risk_level": "Low",
+    "statutory_relevance": "Insurance",
+    "explanation": "Standard commercial insurance covenant."
+  }
+]
